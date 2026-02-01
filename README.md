@@ -2,3 +2,5 @@
 The program will help you to hack any caesar encrypted word
 
 by Ashurov Zamirbek
+
+Main Script - in Program.cs
